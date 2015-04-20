@@ -1,0 +1,9 @@
+c:\users\draffish\documents\visual studio 2013\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+c:\users\draffish\documents\visual studio 2013\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+c:\users\draffish\documents\visual studio 2013\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+c:\users\draffish\documents\visual studio 2013\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+c:\users\draffish\documents\visual studio 2013\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
+C:\Users\draffish\Documents\Visual Studio 2013\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+C:\Users\draffish\Documents\Visual Studio 2013\Projects\TextAdventure\CosnoleAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+C:\Users\draffish\Documents\Visual Studio 2013\Projects\TextAdventure\CosnoleAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+C:\Users\draffish\Documents\Visual Studio 2013\Projects\TextAdventure\CosnoleAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
